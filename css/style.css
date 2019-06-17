@@ -75,12 +75,12 @@ p{
 	font-weight: 600;
 }
 .price{
-	color:#0C9F67;
+	color:#FFFFFF;
 	font-size: 16px;
 	font-weight: 600;
 }
 .button-green{
-	background-color:#0C9F67 !important;
+	background-color:#000000 !important;
 }
 
 .choco-frappe{
@@ -138,6 +138,14 @@ p{
 .contact3{
 	float: left;
 }
-
+.card-body{
+	text-align: center;
+	font-weight: 800;
+	font-size: 20px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	
+	
+}
 
 
